@@ -1,3 +1,3 @@
-FROM wordpress:latest
+FROM wordpress:apache
 
 EXPOSE 80
